@@ -9,7 +9,7 @@
 We need to improve the web page performance because our web page
 is performing bad in terms of First Contentful Paint, Speed Index and Time to Interactive metrics.
 
-![img.png](img.png)
+![img.png](./img.png)
 
 ## Motivation (WHY?)
 According to conducted research, web page performance is a crucial factor of user experience on every website. This means that because our web page performance metrics is low, we're losing the conversion rate of the visitors that can became our potential customers. Basically, our company is losing money because of the pure web page performance. The desired outcome of improving the performance is a higher conversion rate that will lead to more leads that can be converted into business deals. 
@@ -18,7 +18,7 @@ According to conducted research, web page performance is a crucial factor of use
 1. We can try to reduce the Javascript bundle size by using the Webpack chunk plugin to chunk the bundle into main and vendor files
 Main will contain Javascript written by us while vendor will contain Javascript from third-party vendors (libraries etc.).
 
-![img_2.png](img_2.png)
+![img_2.png](./img_2.png)
 
 
 
@@ -29,7 +29,7 @@ Main will contain Javascript written by us while vendor will contain Javascript 
 
 
 3. We can try to improve the download time of heavy assets that we're using on the webpage by converting the images from jpg to webp format and by converting the video from mp4 to WebM format. On the homepage there is a "Take a look behind the scenes" video presenting how we work in our company. Currently it's in mp4 format and it takes about 5MB and we can reduce it to 1.2MB by converting from MP4 to WebM format. (...) // More in details description 
-![img_1.png](img_1.png)
+![img_1.png](./img_1.png)
 
 TBC...
 
